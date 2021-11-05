@@ -1,2 +1,2 @@
 # github-demo-novel
-Demo repoitory made to learn about git/github :)__
+__Demo repoitory made to learn about git/github :)__
